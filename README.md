@@ -50,7 +50,7 @@ I'm **Mrwan**, a Fullstack developer from 🇪🇬 Egypt, passionate about build
   <!-- <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a> -->
-  <a href="https://discord.gg/mrwan_khaled_" target="_blank">
+  <a href="[https://discord.gg/mrwan_khaled_](https://discord.com/users/mrwan_khaled_)" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <!-- <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
