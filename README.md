@@ -37,3 +37,23 @@ I'm **Mrwan**, a Fullstack developer from 🇪🇬 Egypt, passionate about build
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+### 🌐 Socials
+
+<p>
+  <a href="https://github.com/Mrwan8Khaled" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> -->
+  <!-- <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a> -->
+  <a href="https://discord.gg/mrwan_khaled_" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <!-- <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a> -->
+</p>
