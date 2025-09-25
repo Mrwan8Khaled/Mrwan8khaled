@@ -25,9 +25,9 @@ I'm **Mrwan**, a Fullstack developer from 🇪🇬 Egypt, passionate about build
 ---
 
 ### 📊 GitHub Stats
-![Mrwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Mrwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrwan8Khaled&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrwan8Khaled&layout=compact&theme=radical)
 
 ---
 
@@ -37,7 +37,3 @@ I'm **Mrwan**, a Fullstack developer from 🇪🇬 Egypt, passionate about build
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=Mrwan8Khaled&show_icons=true&theme=radical)  
-
