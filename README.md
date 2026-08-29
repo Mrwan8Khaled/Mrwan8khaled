@@ -10,15 +10,14 @@
 🚀 Turning ideas into clean, functional, and eye-catching web apps.  
 From backend logic to pixel-perfect UI — I do it all, and I do it with style.  
 
-🌍 Based in Egypt 🇪🇬 | Always learning. Always building.  
+🌍 Based in Egypt.  
 
 ---
 
 ### 🧠 About Me
 💻 I love bringing ideas to life using modern web technologies.  
 🎨 I care deeply about user experience and clean design.  
-🏋️‍♂️ When I’m not coding, you’ll probably find me in the gym pushing some weights.  
-☕ Fuel: caffeine + late-night coding vibes.  
+☕ late-night coding vibes.  
 
 </div>
 
