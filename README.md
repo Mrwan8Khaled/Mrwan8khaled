@@ -41,18 +41,9 @@ From backend logic to pixel-perfect UI — I do it all, and I do it with style.
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrwan8Khaled&show_icons=true&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrwan8Khaled&layout=compact&theme=radical" height="180em"/>
-</div>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:mrwan8khaled@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Mrwan8Khaled" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://discord.com/users/1398744468164968468" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
